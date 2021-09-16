@@ -1,6 +1,6 @@
-//Diego Grisales
-//https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro
-//https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
+#Diego Grisales
+#https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro
+#https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
 
 ![Screen Shot 2021-09-15 at 9 24 27 PM](https://user-images.githubusercontent.com/54412831/133534400-c0f91e95-8796-44ee-b6c1-abb25e11a0af.png)
 
