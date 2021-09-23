@@ -1,0 +1,35 @@
+@page "/mealcalc"
+
+<h3>Total Meal Price Calculator</h3>
+
+<p>Enter the price of the meal </p>
+
+<input @bind="MealPriceInput" />
+
+<button class="btn btn-primary" @onclick="CalculateTotal">Calculate Total</button>
+
+<p>Total price with 6.5% tax and 20% tip: @TotalPrice </p>
+
+@code
+
+{
+
+    private string MealPriceInput { get; set; }
+
+    private string TotalPrice { get; set; }
+
+    private void CalculateTotal()
+
+    {
+
+        double mealPrice = double.Parse(MealPriceInput);
+        mealPrice = mealPrice + (mealPrice * .065) + (mealPrice * .20);
+        TotalPrice = mealPrice.ToString();
+
+    }
+
+}
+
+
+
+
