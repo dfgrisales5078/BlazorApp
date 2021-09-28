@@ -1,6 +1,9 @@
 ### Diego Grisales
 ### https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro
 ### https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
+### https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-5.0&pivots=server
+
+### https://happy-desert-06cd1f610.azurestaticapps.net/
 
 ![Screen Shot 2021-09-15 at 9 24 27 PM](https://user-images.githubusercontent.com/54412831/133534400-c0f91e95-8796-44ee-b6c1-abb25e11a0af.png)
 
