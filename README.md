@@ -1,17 +1,18 @@
 ### Diego Grisales
+
+# Tutorials followed:
 ### https://dotnet.microsoft.com/learn/aspnet/blazor-tutorial/intro
 ### https://devblogs.microsoft.com/aspnet/azure-static-web-apps-with-blazor/
 ### https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-5.0&pivots=server
-
+### https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
 
 
 # Deployed website URL:
 ### https://happy-desert-06cd1f610.azurestaticapps.net/
 
+# updates:
 
-
-
-
+Added an IPO tab, meal price calculator tab, and a todo item list. 
 
 # Blazor Starter Application
 
