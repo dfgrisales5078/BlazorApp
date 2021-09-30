@@ -1,3 +1,5 @@
+# Deployed website URL:
+### https://happy-desert-06cd1f610.azurestaticapps.net/todo
 ### Diego Grisales
 
 # Tutorials followed:
@@ -6,13 +8,9 @@
 ### https://docs.microsoft.com/en-us/aspnet/core/tutorials/build-a-blazor-app?view=aspnetcore-5.0&pivots=server
 ### https://sites.google.com/site/profvanselow/programming/languages/c_1/blazor
 
-
-# Deployed website URL:
-### https://happy-desert-06cd1f610.azurestaticapps.net/
-
 # updates:
 
-Added an IPO tab, meal price calculator tab, and a todo item list. 
+Added an IPO page, meal price calculator page, and a todo item list page. 
 
 # Blazor Starter Application
 
